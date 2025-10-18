@@ -1,0 +1,42 @@
+2025-10-16 15:44:49,675 - INFO - Database engine created. It will be saved at: brazil_ecommerce.db
+2025-10-16 15:44:49,676 - INFO - --- Starting ETL Process ---
+2025-10-16 15:44:49,677 - INFO - Processing file: olist_customers_dataset.csv -> into table: customers
+2025-10-16 15:44:51,405 - INFO - Successfully loaded table: customers
+2025-10-16 15:44:51,405 - INFO - Processing file: olist_geolocation_dataset.csv -> into table: geolocation
+2025-10-16 15:45:06,424 - INFO - Successfully loaded table: geolocation
+2025-10-16 15:45:06,425 - INFO - Processing file: olist_orders_dataset.csv -> into table: orders
+2025-10-16 15:45:08,964 - INFO - Successfully loaded table: orders
+2025-10-16 15:45:08,964 - INFO - Processing file: olist_order_items_dataset.csv -> into table: order_items
+2025-10-16 15:45:11,475 - INFO - Successfully loaded table: order_items
+2025-10-16 15:45:11,475 - INFO - Processing file: olist_order_payments_dataset.csv -> into table: order_payments
+2025-10-16 15:45:13,128 - INFO - Successfully loaded table: order_payments
+2025-10-16 15:45:13,128 - INFO - Processing file: olist_order_reviews_dataset.csv -> into table: order_reviews
+2025-10-16 15:45:16,218 - INFO - Successfully loaded table: order_reviews
+2025-10-16 15:45:16,218 - INFO - Processing file: olist_products_dataset.csv -> into table: products
+2025-10-16 15:45:17,243 - INFO - Successfully loaded table: products
+2025-10-16 15:45:17,243 - INFO - Processing file: olist_sellers_dataset.csv -> into table: sellers
+2025-10-16 15:45:17,338 - INFO - Successfully loaded table: sellers
+2025-10-16 15:45:17,338 - INFO - Processing file: product_category_name_translation.csv -> into table: category_name_translation
+2025-10-16 15:45:17,391 - INFO - Successfully loaded table: category_name_translation
+2025-10-16 15:45:17,391 - INFO - --- ETL Process Complete. Total time taken: 27.71 seconds. ---
+2025-10-16 15:45:17,421 - INFO - Database engine created. It will be saved at: brazil_ecommerce.db
+2025-10-16 15:45:17,422 - INFO - --- Starting ETL Process ---
+2025-10-16 15:45:17,423 - INFO - Processing file: olist_customers_dataset.csv -> into table: customers
+2025-10-16 15:45:19,498 - INFO - Successfully loaded table: customers
+2025-10-16 15:45:19,498 - INFO - Processing file: olist_geolocation_dataset.csv -> into table: geolocation
+2025-10-16 15:45:34,664 - INFO - Successfully loaded table: geolocation
+2025-10-16 15:45:34,665 - INFO - Processing file: olist_orders_dataset.csv -> into table: orders
+2025-10-16 15:45:37,559 - INFO - Successfully loaded table: orders
+2025-10-16 15:45:37,559 - INFO - Processing file: olist_order_items_dataset.csv -> into table: order_items
+2025-10-16 15:45:39,950 - INFO - Successfully loaded table: order_items
+2025-10-16 15:45:39,951 - INFO - Processing file: olist_order_payments_dataset.csv -> into table: order_payments
+2025-10-16 15:45:41,834 - INFO - Successfully loaded table: order_payments
+2025-10-16 15:45:41,834 - INFO - Processing file: olist_order_reviews_dataset.csv -> into table: order_reviews
+2025-10-16 15:45:44,289 - INFO - Successfully loaded table: order_reviews
+2025-10-16 15:45:44,289 - INFO - Processing file: olist_products_dataset.csv -> into table: products
+2025-10-16 15:45:45,186 - INFO - Successfully loaded table: products
+2025-10-16 15:45:45,187 - INFO - Processing file: olist_sellers_dataset.csv -> into table: sellers
+2025-10-16 15:45:45,279 - INFO - Successfully loaded table: sellers
+2025-10-16 15:45:45,280 - INFO - Processing file: product_category_name_translation.csv -> into table: category_name_translation
+2025-10-16 15:45:45,315 - INFO - Successfully loaded table: category_name_translation
+2025-10-16 15:45:45,315 - INFO - --- ETL Process Complete. Total time taken: 27.89 seconds. ---
